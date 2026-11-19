@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="FlowPayroll USDT Payment Guide" src="https://github.com/user-attachments/assets/69839111-9b61-4db8-b1ec-9672c4eb1835" />
+
 # FlowPayroll USDT Payment Guide
 
 > A practical guide to receiving, transferring, and converting **USDT (Tether)** through **TRC20, ERC20, and BEP20**. Learn how blockchain networks differ, what fees to consider, how to reduce payment risks, and how to exchange USDT for local currency.
