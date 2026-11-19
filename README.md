@@ -1,4 +1,4 @@
-# FlowPayroll USDT Payment Handbook
+# FlowPayroll USDT Payment Guide
 
 > A practical guide to receiving, transferring, and converting **USDT (Tether)** through **TRC20, ERC20, and BEP20**. Learn how blockchain networks differ, what fees to consider, how to reduce payment risks, and how to exchange USDT for local currency.
 
